@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a bank loan data
 ## ENTITY RELATIONSHIP DIAGRAM
 
 
-![Screenshot 2024-09-18 082856](https://github.com/user-attachments/assets/f9e01dfd-e205-40a4-a865-4a1d74c92874)
+![Screenshot 2024-09-18 090214](https://github.com/user-attachments/assets/52387c80-0a56-4124-9e5f-6b2192eebf39)
 
 
 
@@ -52,7 +52,7 @@ class Bankloanadmin(admin.ModelAdmin):
 
 Include the screenshot of your admin page.
 
-![Screenshot 2024-09-18 082456](https://github.com/user-attachments/assets/affb3669-8983-433d-a908-33ab7e9d459f)
+![Screenshot 2024-09-18 090207](https://github.com/user-attachments/assets/056aad86-1047-4fda-ac15-989ef952c6eb)
 
 
 
